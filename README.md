@@ -1,2 +1,3 @@
 # Boston-House-Price-Analysis
-Uses linear regression to analyze boston house price data
+
+This project uses linear regression to analyze boston house price data. It mainly focuses on exploratory data analysis, modeling using statsmodel library in Python, and evaluation tools.
